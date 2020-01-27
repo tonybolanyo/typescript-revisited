@@ -4,7 +4,11 @@
   "description": "Revisiting my skills on typescripts from scratch.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "es6": "./node_modules/.bin/http-server -c1 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonybolanyo/typescript-revisited.git"
   },
   "keywords": [
     "typescript",
@@ -16,6 +20,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "http-server": "^0.12.1",
     "typescript": "^3.7.5"
   }
 }
