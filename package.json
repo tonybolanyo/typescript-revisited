@@ -1,0 +1,21 @@
+{
+  "name": "typescript-revisited",
+  "version": "1.0.0",
+  "description": "Revisiting my skills on typescripts from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "recoding",
+    "learning",
+    "personal upgrade"
+  ],
+  "author": "Tony G. Bolaño<tonybolanyo@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
